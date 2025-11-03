@@ -1,13 +1,10 @@
 # Crestron Construct MTR Camera Control
-Crestron Construct example project for Crestron Flex Microsoft Teams Room Systems, providing control of a camera via Reserved joins
+This project file contains pages for PTZ control and Preset Recall of commonly supported cameras on a Crestron Flex MTR system (Huddly, Jabra, Logitech, Poly) via Reserved Joins.
 
 # Disclaimer
 **Please note that this project is not created by or associated with Crestron Electronics and no support or warranty is provided.**
 
 Inspired by https://github.com/avdoguctricks/crestroncameracontrols
-
-# Overview
-This project file contains pages for PTZ control and Preset Recall of commonly supported cameras on a Crestron Flex MTR system (Huddly, Jabra, Logitech, Poly).
 
 # Installation Instructions
 1) Load project solution (.csln) into Crestron Construct.
