@@ -4,7 +4,7 @@ This project file contains pages for PTZ control and Preset Recall of commonly s
 <img src="/images/Huddly-Vivid%20Flag.png" alt="Preview of Vivid Flag Theme with Huddly Controls" width="320" height="200">&emsp;<img src="/images/Huddly-Default%20Blue.png" alt="Preview of Default Blue Theme with Huddly Controls" width="320" height="200">
 
 # Disclaimer
-**Please note that this project is not created by or associated with Crestron Electronics and no support or warranty is provided.**
+**Please note that this project is not created by or associated with Crestron Electronics or Microsoft and no support or warranty is provided.**
 
 Inspired by https://github.com/avdoguctricks/crestroncameracontrols
 
@@ -24,6 +24,6 @@ The project has been designed with the idea that you will only use page flips (n
 2) Camera support is limited to those supported by Crestron's reserved joins. Please contact Crestron True Blue Support for queries related to supported camera makes/models on Crestron Flex MTR products.
 
 # Bugs & Support
-Per the disclaimer, please note that this project is not created by or associated with Crestron Electronics - please do not contact Crestron for support regarding this project.
+Per the disclaimer, please note that this project is not created by or associated with Crestron Electronics or Microsoft - please do not contact either party for support regarding this project.
 
 Please feel free to report any issues with the project via the usual Github process.
