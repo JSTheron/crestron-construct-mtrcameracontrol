@@ -1,5 +1,5 @@
 # Crestron Construct MTR Camera Control
-This project file contains pages for PTZ control and Preset Recall of commonly supported cameras on a Crestron Flex MTR system (Huddly, Jabra, Logitech, Poly) via Reserved Joins.
+This project file contains pages for PTZ control and Preset Recall of commonly supported cameras on a Crestron Flex MTR system (UC-ENGINE with either Huddly, Jabra, Logitech or Poly camera) via Reserved Joins.
 
 <img src="/images/Huddly-Vivid%20Flag.png" alt="Preview of Vivid Flag Theme with Huddly Controls" width="320" height="200">&emsp;<img src="/images/Huddly-Default%20Blue.png" alt="Preview of Default Blue Theme with Huddly Controls" width="320" height="200">
 
@@ -21,7 +21,7 @@ Inspired by https://github.com/avdoguctricks/crestroncameracontrols
 # Limitations
 The project has been designed with the idea that you will only use page flips (no control system needed). This provides convenience but does add some limitations.
 1) The switch theme button is just a page flip- there is no memory. Each day, after the unit does its nightly reboot, you would need to press the change theme button again to get the theme you want. Instead, to make this persistent, you should compile the project with the correct theme set as the landing page (as per the installation instructions).
-2) Camera support is limited to those supported by Crestron's reserved joins. Please contact Crestron True Blue Support for queries related to supported camera makes/models on Crestron Flex MTR products.
+2) Camera support is limited to those supported by Crestron's reserved joins. Crestron maintains a list of supported cameras here - https://community.crestron.com/s/article/2826. Please contact Crestron True Blue Support for any queries related to supported camera makes/models on Crestron Flex MTR products. 
 
 # Bugs & Support
 Per the disclaimer, please note that this project is not created by or associated with Crestron Electronics or Microsoft - please do not contact either party for support regarding this project.
