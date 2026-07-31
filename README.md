@@ -21,7 +21,10 @@ Inspired by https://github.com/avdoguctricks/crestroncameracontrols
 # Limitations
 The project has been designed with the idea that you will only use page flips (no control system needed). This provides convenience but does add some limitations.
 1) The switch theme button is just a page flip- there is no memory. Each day, after the unit does its nightly reboot, you would need to press the change theme button again to get the theme you want. Instead, to make this persistent, you should compile the project with the correct theme set as the landing page (as per the installation instructions).
-2) Camera support is limited to those supported by Crestron's reserved joins. Crestron maintains a list of supported cameras here - https://community.crestron.com/s/article/2826. Please contact Crestron True Blue Support for any queries related to supported camera makes/models on Crestron Flex MTR products. 
+2) Camera support is limited to those supported by Crestron's reserved joins. Please contact Crestron True Blue Support for any queries related to supported camera makes/models on Crestron Flex MTR products. 
+   * Crestron IV-CAM-P12/P20 & IV-CAM-I12/I20 supported since UC-ENGINE 1.16.00.133 (March 2024).
+   * Crestron IV-CAM-I2D supported since UC-ENGINE 1.22.00.416 (June 2026).
+   * Crestron maintains a list of supported 3rd party cameras here - https://community.crestron.com/s/article/2826.
 
 # Bugs & Support
 Per the disclaimer, please note that this project is not created by or associated with Crestron Electronics or Microsoft - please do not contact either party for support regarding this project.
